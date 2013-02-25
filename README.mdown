@@ -1,5 +1,4 @@
 # pilgrim 
-### (placeholder project name)
 
 Uses geospatial and historical data to connect you to past events at a given location
 
