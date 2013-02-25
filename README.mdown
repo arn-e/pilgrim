@@ -1,4 +1,5 @@
 # pilgrim 
+(early development)
 
 Uses geospatial and historical data to connect you to past events at a given location
 
