@@ -17,7 +17,8 @@ development:
   encoding: unicode
   database: pilgrim_development
   pool: 5
-  username: pilgrim
+  host: localhost
+  username: arne 
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
@@ -43,7 +44,8 @@ test:
   encoding: unicode
   database: pilgrim_test
   pool: 5
-  username: pilgrim
+  host: localhost
+  username: arne
   password:
 
 production:
@@ -51,5 +53,6 @@ production:
   encoding: unicode
   database: pilgrim_production
   pool: 5
-  username: pilgrim
+  host: localhost
+  username: arne 
   password:
