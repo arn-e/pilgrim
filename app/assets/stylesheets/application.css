@@ -11,3 +11,33 @@
  *= require_self
  *= require_tree .
  */
+
+#navigation {
+  background-color: cyan;
+  border: dotted 5px orange;
+  /*position: fixed;*/
+  width: 100%;
+  /*margin-top: -50px;*/
+}
+
+#navigation a:hover{
+  color: blue;
+}
+
+#navigation li{
+  display: inline-block;
+}
+
+body {
+  background-color: magenta;
+  font-family: sans-serif;
+}
+
+.container {
+  /*display: block;*/
+  /*position: absolute;*/
+  border: dashed 3px red;
+  width: 50%;
+  margin: 50px auto auto auto;
+}
+
