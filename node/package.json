@@ -1,0 +1,14 @@
+{
+    "name": "Pilgrim",
+    "author": "Arne Fostvedt",
+    "description": "Connecting you to past events at your present location",
+    "version": "0.0.1",
+    "dependencies": {
+        "mongodb": "1.2.x",
+        "nodeunit": "0.7.x",
+        "express": "3.x",
+        "jade": "x"
+    },
+    "engine": "0.6.x",
+    "main": "app.js"
+}
