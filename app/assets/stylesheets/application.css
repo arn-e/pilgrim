@@ -41,3 +41,28 @@ body {
   margin: 50px auto auto auto;
 }
 
+.column1 {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: orange;
+}
+
+.column2 {
+  width: 40%;
+  height: 200px;
+  float: left;
+  background-color: blue;
+  
+}
+
+.column3 {
+  width: 25%;
+  height: 200px;
+  float: left;
+  background-color: green;
+}
+
+.footer {
+  
+}
