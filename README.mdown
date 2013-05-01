@@ -1,9 +1,9 @@
 # pilgrim 
 (early development)
 
-Uses geospatial and historical data to connect you to past events at a given location
-
+Uses geospatial and historical data to connect you to past events at a given location    
+... in theory. It's basically an empty repo at this point
 ## to do
 
-* PostGIS integration
-* add migrations for events, including spatial column types
+a whole bunch of stuff :)  
+basically revisiting this project from scratch, & wiping a lot of existing non-features
