@@ -3,7 +3,9 @@
 
 Uses geospatial and historical data to connect you to past events at a given location    
 ... in theory. It's basically an empty repo at this point
+
 ## to do
 
 a whole bunch of stuff :)  
 basically revisiting this project from scratch, & wiping a lot of existing non-features
+
