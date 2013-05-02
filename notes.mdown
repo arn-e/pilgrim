@@ -1,0 +1,28 @@
+# geospatial coordinates
+
+## what do they look like ?
+
+hello :
+
+40.448482,-79.934124
+
+## oh how lovely, what do these numbers mean?
+
+basic latitude & longitude, with a fair bit of precision
+
+## what exactly is geohashing?
+
+ah, well...
+a geohash is a way of representing geographical data in a way that lends itself better to be searched (say, in a DB)
+the formats appear to vary a bit. for instance, geohash.org uses what looks like an alphanumeric hash, whereas a MongoDB geohash is a binary representation
+fun!
+
+link [5] is actually a really great write up, and succinctly explains exactly how the mongodb geohashing system works
+
+## resources 
+
+[1] http://geohash.org/
+[2] http://en.wikipedia.org/wiki/Geohash
+[3] http://en.wikipedia.org/wiki/Geocoding
+[4] http://docs.mongodb.org/manual/core/geospatial-indexes/
+[5] http://architects.dzone.com/articles/mongodbs-geospacial-indexing
