@@ -19,6 +19,8 @@ fun!
 
 link [5] is actually a really great write up, and succinctly explains exactly how the mongodb geohashing system works
 
+link [6] looks like a great super-basic intro to geospatial queries, replete with sample input
+
 ## resources 
 
 [1] http://geohash.org/
@@ -26,3 +28,4 @@ link [5] is actually a really great write up, and succinctly explains exactly ho
 [3] http://en.wikipedia.org/wiki/Geocoding
 [4] http://docs.mongodb.org/manual/core/geospatial-indexes/
 [5] http://architects.dzone.com/articles/mongodbs-geospacial-indexing
+[6] http://myadventuresincoding.wordpress.com/2011/10/02/mongodb-geospatial-queries/
