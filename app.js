@@ -1,6 +1,4 @@
 var express = require('express'),
-    mongo_parser = require('./src/mongo_parser'),
-    mongohq_connection = require('./src/mongohq_connection'),
     app = express();
 
 // configuring express
@@ -15,5 +13,11 @@ app.get('/', function(req, res) {
   res.render('index.jade');
 });
 
-app.listen(3000);
-console.log('Listening on port 3000...');
+// mucking around
+function appListen(port) {
+  var port = port;
+  app.listen(port);
+  console.log('Listening on port ' + port + '...');
+}
+
+appListen(3001);
